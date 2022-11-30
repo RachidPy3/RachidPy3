@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me my email: mouatacim.med@gmail.com
+- 📫 How to reach me --> my email: mouatacim.med@gmail.com
 
 <!---
 RachidPy3/RachidPy3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
