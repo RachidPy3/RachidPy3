@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rachid Mouatacim
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on web projects
+-  Hi, I’m Rachid Mouatacim
+-  I’m interested in web developement
+-  I’m currently learning GOLANG.
+-  I’m looking to collaborate on web projects
 - 📫 How to reach me --> my email: mouatacim.med@gmail.com
 
 <!---
